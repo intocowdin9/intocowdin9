@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intocowdin9
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.Js
+- 🌱 I’m currently learning Javascript
 
 <!---
 intocowdin9/intocowdin9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
